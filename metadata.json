@@ -1,0 +1,5 @@
+{
+  "name": "Shipping Policy Generator",
+  "description": "An application to upload customer data from an Excel sheet and generate printable shipping policies, with three policies per page. The interface is in Arabic.",
+  "requestFramePermissions": []
+}
